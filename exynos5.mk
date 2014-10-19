@@ -40,9 +40,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
 	hwcomposer.exynos5
 
-# MobiCore
-PRODUCT_PACKAGES += \
-	mcDriverDaemon
 
 # Keystore
 PRODUCT_PACKAGES += \
